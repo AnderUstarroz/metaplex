@@ -1,1 +1,31 @@
-{"name":"2","symbol":"","image":"1.png","properties":{"files":[{"uri":"1.png","type":"image/png"}],"category":"image","creators":[]},"description":"","seller_fee_basis_points":500,"attributes":[{"trait_type":"background","value":"light-blue"},{"trait_type":"eyes","value":"star-eyes"},{"trait_type":"mouth","value":"triangle-mouth"},{"trait_type":"face","value":"teal-face"}],"collection":{}}
+{
+  "name": "Medal 2",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [{ "uri": "1.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AjzosCAkMaSMgQDAanF9S5Fgk75ShELtECtvjPsb2fEj",
+        "share": 50
+      },
+      {
+        "address": "234rGp9z5i4jf5ifidR25QtDNxCdtt1pi9EYB2iWA3rd",
+        "share": 50
+      }
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "background", "value": "blue" },
+    { "trait_type": "eyes", "value": "star-eyes" },
+    { "trait_type": "mouth", "value": "triangle-mouth" },
+    { "trait_type": "face", "value": "teal-face" }
+  ],
+  "collection": {
+    "name": "Medal 2",
+    "family": "Medals"
+  }
+}
